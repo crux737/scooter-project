@@ -1,0 +1,15 @@
+{
+  "name": "scooter-project",
+  "version": "1.0.0",
+  "description": "Scooter Hire System: Object Oriented Programming Challenge",
+  "main": "scooterapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scooter",
+    "App"
+  ],
+  "author": "Shols Idowu",
+  "license": "ISC"
+}
